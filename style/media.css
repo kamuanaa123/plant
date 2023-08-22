@@ -1,0 +1,18 @@
+@media(max-width:1200px){
+    .header{
+        justify-content:space-evenly !important;
+    }
+
+    .cards1{
+        flex-wrap: wrap;
+        gap: 30px;
+        justify-content: space-evenly;
+    }
+}
+
+@media(max-width:852px){
+    .plant__plant-img{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+}
